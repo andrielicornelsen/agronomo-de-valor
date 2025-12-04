@@ -1,4 +1,4 @@
-# Agrônomo de Valor - Landing Page
+# Agro Evoluir - Landing Page
 
 Esta é a landing page oficial da **Formação Projetistas de Crédito Rural**, desenvolvida para apresentar o curso de forma atrativa, profissional e voltada para conversão de novos alunos.
 
@@ -20,10 +20,10 @@ Conectar profissionais do agronegócio com a oportunidade de se tornarem projeti
 ## 👩‍🏫 Conteúdo Incluso
 
 - Página responsiva em HTML, CSS e JavaScript
-- Foto da representante (Andrieli)
+- Foto da representante (Luana)
 - Vídeos e depoimentos reais
 - Design otimizado para conversão
-- Link de WhatsApp: [Contato direto com Andrieli](https://wa.me/5547997956335)
+- Link de WhatsApp: [Contato direto com Andrieli](https://wa.me/5547999075194)
 
 ## 🚀 Como visualizar
 
@@ -46,8 +46,8 @@ Você pode visualizar esta landing page localmente ou hospedá-la online.
 
 ## 📞 Contato
 
-Desenvolvido por Andrieli – Agrônomo de Valor  
-📱 WhatsApp: [Clique para conversar](https://wa.me/5547997956335)  
-📸 Instagram: [@juniorplautz](https://www.instagram.com/juniorplautz)
+
+📱 WhatsApp: [Clique para conversar](https://wa.me/5547999075194)  
+
 
 ---
