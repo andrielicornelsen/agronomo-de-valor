@@ -6,7 +6,6 @@ Esta é a landing page oficial da **Formação Projetistas de Crédito Rural**, 
 
 Conectar profissionais do agronegócio com a oportunidade de se tornarem projetistas de crédito rural, destacando:
 - Benefícios do curso
-- Depoimentos de alunos
 - Explicação clara e objetiva do que é crédito rural
 - Vídeos com conteúdos e provas sociais
 - Botão de contato direto via WhatsApp para fechamento da matrícula
@@ -15,7 +14,7 @@ Conectar profissionais do agronegócio com a oportunidade de se tornarem projeti
 
 - **Preto**: #000000
 - **Cinza**: #7A7A7A
-- **Laranja**: #FF6600
+- **Verde**: #78866b
 
 ## 👩‍🏫 Conteúdo Incluso
 
